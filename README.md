@@ -1,7 +1,7 @@
 # Database Final Project
 Xây dựng mô hình Cơ Sở Dữ Liệu cho hệ thống quản lý cửa hàng thời trang
 
-                                                                            THÔNG TIN TỔNG QUAN
+THÔNG TIN TỔNG QUAN
 
 I. Mục tiêu chính của đồ án môn học Cơ sở Dữ liệu
 Xây dựng mô hình cơ sở dữ liệu cho một hệ thống quản lý cửa hàng thời trang. Mô hình dữ liệu này nhằm quản lý hiệu quả các thông tin quan trọng như khách hàng, nhân viên, sản phẩm và doanh thu, giúp cửa hàng tiết kiệm thời gian, nâng cao hiệu quả hoạt động và đáp ứng nhu cầu quản lý dữ liệu trong lĩnh vực kinh doanh thời trang.
